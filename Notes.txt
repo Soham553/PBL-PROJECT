@@ -1,0 +1,3 @@
+Git:
+  - What is git it is version control system use to trach files and directories.
+  - Which makes development much easier.
